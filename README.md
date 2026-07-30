@@ -1,4 +1,4 @@
-# AI Waste Classification Using Arduino UNO + Servo motor
+# AI Waste Classification Using Arduino UNO + Servo motor.
 
 
 CNN-based waste classification project using Python and TensorFlow.
